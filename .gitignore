@@ -67,3 +67,6 @@ yarn.lock
 # testing
 /coverage
 *.snap
+
+#environment files
+.env
