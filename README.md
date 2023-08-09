@@ -23,6 +23,6 @@ Hi Everyone! This is simple application to showcase Current weather details and 
 
 ### Setting up environments:
 
-This project used "react-native-dotenv" library for enviornment setup(https://www.npmjs.com/package/react-native-dotenv), Create a .env file and add your Base URL and API_KEY, created .env.template file for referrence.
+This project used "react-native-dotenv" library for enviornment setup(https://www.npmjs.com/package/react-native-dotenv), Create a .env file and add your Base URL and API_KEY. For reference please check .env.template file.
 
 By default, This app has OpenWeatherMap APIs to fetch weather information.
